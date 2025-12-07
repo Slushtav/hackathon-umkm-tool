@@ -21,7 +21,7 @@ Project ini juga dibuat agar ringan, sederhana, dan mudah dipakai. Cocok untuk U
 ## 🚀 Demo
 Berikut video demonstrasi penggunaan
 
-[![Watch the video](https://img.youtube.com/vi/r08caShzkHs/maxresdefault.jpg)](https://www.youtube.com/watch?v=r08caShzkHs)
+[![Watch the video](https://img.youtube.com/vi/PYWefpTHRTs/maxresdefault.jpg)](https://youtu.be/PYWefpTHRTs)
 
 
 ## 👥 Contributors
